@@ -1,6 +1,11 @@
+# Screen Settings
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 
+# Game Settings
+TICK_DELAY = 60
+
+# Asteroid Settings
 ASTEROID_MIN_RADIUS = 20
 ASTEROID_KINDS = 3
 ASTEROID_SPAWN_RATE = 0.8  # seconds
