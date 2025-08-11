@@ -5,6 +5,7 @@ SCREEN_COLOR = "black"
 
 # Game Settings
 TICK_DELAY = 60
+GAME_OVER_TEXT = "Game over!"
 
 # Asteroid Settings
 ASTEROID_COLOR = "white"
